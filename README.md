@@ -7,7 +7,7 @@ To conduct this statistical analysis, techniques such as Multiple linear regress
 Also, a statistical study needs to be designed, that can quantify how the MechaCar performs against the competition, critically thinking about what metrics would be of interest to the consumer.
 ## **Linear Regression to Predict MPG**
 
-![](https://github.com/kirtibhandari/MechaCar_Statistical_Analysis/blob/main/Resources/deliverable-1-output.png)
+![](https://github.com/kirtibhandari/MechaCar_Statistical_Analysis/blob/main/Resources/output-1.png)
 
 - The following variables/coefficients which provided a non-random amount of variance to the mpg values in the dataset are:
  **Vehicle_length, ground_clearance as well as intercept**
@@ -30,7 +30,7 @@ Summarily, as we have intercept's p-value as a significant value for current dat
 
 ## **Summary Statistics on Suspension Coils**
 
-![](https://github.com/kirtibhandari/MechaCar_Statistical_Analysis/blob/main/Resources/deliverable-2-output.png)
+![](https://github.com/kirtibhandari/MechaCar_Statistical_Analysis/blob/main/Resources/output-2.png)
 
 From the results obtained, we need to provide answer to the following requirement:
 
@@ -43,7 +43,7 @@ On the other hand,the Lot-wise summary has different values for variance.
 Lot1 and Lot2 are very low variance values 0.98 and 7.47 respectively, compared to the allowed value of 100 PSI. Whereas, for Lot3 it's 170.29, which is higher and hence does not meet the specification requirement.
 ## **T-Tests on Suspension Coils**
 
-![](https://github.com/kirtibhandari/MechaCar_Statistical_Analysis/blob/main/Resources/deliverable-3-output.png)
+![](https://github.com/kirtibhandari/MechaCar_Statistical_Analysis/blob/main/Resources/output-3.png)
 
 Here we have used one-sample t-test to determine whether there is statistical difference between the means of sample dataset and a hypothesized, potential population data set for the following hypothesis:
 
