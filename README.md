@@ -1,7 +1,7 @@
 # **MechaCar_Statistical_Analysis**
 
 ## **Overview of the analysis:**
-An automobile company's newest prototype the MechaCar, is suffering from some troubles in the production Department. due to this, there is an impact on the progress of manufacturing team. To resolve the problem, an analysis of production data is to be conducted to provide the insights to help the manufacturing team.
+An automobile company's newest prototype the MechaCar, is suffering from some troubles in the production Department. Due to this, there is an impact on the progress of manufacturing team. To resolve the problem, an analysis of production data is to be conducted to provide the insights to help the manufacturing team.
 To conduct this statistical analysis, techniques such as Multiple linear regression, Summary Statistics and t- test have been used. 
 
 Also, a statistical study needs to be designed, that can quantify how the MechaCar performs against the competition, critically thinking about what metrics would be of interest to the consumer.
